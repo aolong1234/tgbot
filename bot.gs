@@ -5,7 +5,7 @@ function doPost(e){
     "method": "post",
     "payload": payload
   }
-  UrlFetchApp.fetch("https://api.telegram.org/bot381089208:AAHAR-MqMWDTk1de8wj-WK1BLvk9JQJ2TOM/", data);
+  UrlFetchApp.fetch("https://api.telegram.org/bot1957087334:AAEthWYFkqhyqCr9HT-96H-MpIfrEsx_0Pk/", data);
 }
 
 function identificar(e){
